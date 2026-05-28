@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DSA Practice - LeetCode
 
 This repository is a personal log of my daily Data Structures and Algorithms practice and LeetCode solutions.
@@ -5,3 +6,6 @@ This repository is a personal log of my daily Data Structures and Algorithms pra
 ### What's Inside:
 * Code implementations for various LeetCode problems.
 * Solutions organized by topic (e.g., Arrays, Strings).
+=======
+# THIS IS FOLDER FOR DOCUMENTING MY DSA PRACTICE QUESTIONS FROM LEETCODE
+>>>>>>> 276444b1228fab72b575c1ad6459aad831919b30
