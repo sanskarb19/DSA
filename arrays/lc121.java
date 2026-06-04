@@ -1,4 +1,5 @@
-class Solution {
+public class lc121{
+static class Solution {
     public int maxProfit(int[] prices) {
         int i, minprice=prices[0],maxprofit=0;
 
@@ -13,4 +14,11 @@ class Solution {
         }
     return maxprofit;
     }
+}
+public static void main(String[] args){
+    int[] arr = {7,1,5,3,6,4};
+    Solution sc = new Solution();
+    int result = sc.maxProfit(arr);
+    System.out.println("ANS :"+result);
+}
 }
